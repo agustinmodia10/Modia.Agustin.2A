@@ -1,0 +1,7 @@
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\bin\Debug\ejercicioclase04.exe.config
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\bin\Debug\ejercicioclase04.exe
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\bin\Debug\ejercicioclase04.pdb
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\obj\Debug\ejercicioclase04.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\obj\Debug\ejercicioclase04.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\obj\Debug\ejercicioclase04.exe
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase04\obj\Debug\ejercicioclase04.pdb
