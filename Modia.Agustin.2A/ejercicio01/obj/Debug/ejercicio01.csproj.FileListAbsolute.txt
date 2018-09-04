@@ -1,0 +1,7 @@
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\bin\Debug\ejercicio01.exe.config
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\bin\Debug\ejercicio01.exe
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\bin\Debug\ejercicio01.pdb
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\obj\Debug\ejercicio01.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\obj\Debug\ejercicio01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\obj\Debug\ejercicio01.exe
+D:\VisualStudio\Modia.Agustin.2A\ejercicio01\obj\Debug\ejercicio01.pdb
