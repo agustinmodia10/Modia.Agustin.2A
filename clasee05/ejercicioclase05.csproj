@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2C56D034-72FF-42F5-80F6-D146539CBDCE}</ProjectGuid>
+    <ProjectGuid>{EFF675DF-2F81-478A-B502-9F6B4529F6EA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>entidadestest</RootNamespace>
-    <AssemblyName>entidadestest</AssemblyName>
+    <RootNamespace>clasee05</RootNamespace>
+    <AssemblyName>clasee05</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,8 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="enumerados.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tinta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

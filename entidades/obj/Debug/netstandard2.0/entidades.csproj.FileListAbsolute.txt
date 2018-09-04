@@ -7,12 +7,3 @@ D:\VisualStudio\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.As
 D:\VisualStudio\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.AssemblyInfo.cs
 D:\VisualStudio\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.dll
 D:\VisualStudio\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.pdb
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\bin\Debug\netstandard2.0\entidades.deps.json
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\bin\Debug\netstandard2.0\entidades.dll
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\bin\Debug\netstandard2.0\entidades.pdb
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.csprojAssemblyReference.cache
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.csproj.CoreCompileInputs.cache
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.AssemblyInfoInputs.cache
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.AssemblyInfo.cs
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.dll
-C:\Users\elmolelaptop\Desktop\utn 2do\Modia.Agustin.2A\entidades\obj\Debug\netstandard2.0\entidades.pdb

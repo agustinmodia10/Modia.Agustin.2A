@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elmolelaptop\\Desktop\\utn 2do\\Modia.Agustin.2A\\entidades\\entidades.csproj",
+      "projectUniqueName": "C:\\Users\\elmolelaptop\\Desktop\\github utn\\Modia.Agustin.2A\\entidades\\entidades.csproj",
       "projectName": "entidades",
-      "projectPath": "C:\\Users\\elmolelaptop\\Desktop\\utn 2do\\Modia.Agustin.2A\\entidades\\entidades.csproj",
+      "projectPath": "C:\\Users\\elmolelaptop\\Desktop\\github utn\\Modia.Agustin.2A\\entidades\\entidades.csproj",
       "packagesPath": "C:\\Users\\elmolelaptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elmolelaptop\\Desktop\\utn 2do\\Modia.Agustin.2A\\entidades\\obj\\",
+      "outputPath": "C:\\Users\\elmolelaptop\\Desktop\\github utn\\Modia.Agustin.2A\\entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
