@@ -1,0 +1,35 @@
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\bin\Debug\ejercicioclase06.exe.config
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\bin\Debug\ejercicioclase06.exe
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\bin\Debug\ejercicioclase06.pdb
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.Form1.resources
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.formutinta.resources
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.Properties.Resources.resources
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.csproj.GenerateResource.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.exe
+D:\VisualStudio\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\bin\Debug\ejercicioclase06.exe.config
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\bin\Debug\ejercicioclase06.exe
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\bin\Debug\ejercicioclase06.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.Form1.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.formutinta.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.Properties.Resources.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.csproj.GenerateResource.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.exe
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase 06\Modia.Agustin.2A\ejercicioclase06\obj\Debug\ejercicioclase06.formupluma.resources
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\bin\Debug\ejercicioclase06.exe.config
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\bin\Debug\ejercicioclase06.exe
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\bin\Debug\ejercicioclase06.pdb
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.formupluma.resources
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.formutinta.resources
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.Properties.Resources.resources
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.csproj.GenerateResource.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.exe
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.pdb
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase06\obj\Debug\ejercicioclase06.btnsalir.resources

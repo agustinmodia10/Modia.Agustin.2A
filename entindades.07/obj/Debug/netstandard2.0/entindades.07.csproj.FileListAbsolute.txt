@@ -1,0 +1,27 @@
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\obj\Debug\netstandard2.0\entindades.07.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\obj\Debug\netstandard2.0\entindades.07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\obj\Debug\netstandard2.0\entindades.07.AssemblyInfoInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\obj\Debug\netstandard2.0\entindades.07.AssemblyInfo.cs
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\bin\Debug\netstandard2.0\entindades.07.deps.json
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\bin\Debug\netstandard2.0\entindades.07.dll
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\bin\Debug\netstandard2.0\entindades.07.pdb
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\obj\Debug\netstandard2.0\entindades.07.dll
+D:\VisualStudio\Modia.Agustin.2A-cpy\entindades.07\obj\Debug\netstandard2.0\entindades.07.pdb
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.AssemblyInfoInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.AssemblyInfo.cs
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.pdb
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\bin\Debug\netstandard2.0\entindades.07.deps.json
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\bin\Debug\netstandard2.0\entindades.07.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\entindades.07\bin\Debug\netstandard2.0\entindades.07.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\bin\Debug\netstandard2.0\entindades.07.deps.json
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\bin\Debug\netstandard2.0\entindades.07.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\bin\Debug\netstandard2.0\entindades.07.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.AssemblyInfoInputs.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.AssemblyInfo.cs
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\entindades.07\obj\Debug\netstandard2.0\entindades.07.pdb

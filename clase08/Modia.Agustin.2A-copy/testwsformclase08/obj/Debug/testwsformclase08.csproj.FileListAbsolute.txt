@@ -1,0 +1,222 @@
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.exe.config
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.Form1.resources
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.Properties.Resources.resources
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csproj.GenerateResource.cache
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\testwsformclase08.exe.config
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\testwsformclase08.exe
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\testwsformclase08.pdb
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\netstandard.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.AppContext.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.Concurrent.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.NonGeneric.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.Specialized.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Console.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Data.Common.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Contracts.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Debug.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Process.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Tools.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Tracing.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Drawing.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Dynamic.Runtime.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Globalization.Calendars.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Globalization.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Globalization.Extensions.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.Compression.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.IsolatedStorage.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.Pipes.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.Expressions.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.Parallel.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.Queryable.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Http.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.NameResolution.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.NetworkInformation.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Ping.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Requests.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Security.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Sockets.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.WebSockets.Client.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.WebSockets.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ObjectModel.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Reflection.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Reflection.Extensions.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Reflection.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Resources.Reader.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Resources.ResourceManager.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Resources.Writer.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Extensions.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Handles.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.InteropServices.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Numerics.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Claims.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Principal.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.SecureString.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Text.Encoding.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Text.RegularExpressions.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Overlapped.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Tasks.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Thread.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.ThreadPool.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Timer.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ValueTuple.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.ReaderWriter.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XDocument.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XmlDocument.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XmlSerializer.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XPath.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\entindades.07.dll
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\entindades.07.pdb
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csproj.CopyComplete
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.exe
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.pdb
+D:\VisualStudio\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.fmrtempera.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\testwsformclase08.exe.config
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\testwsformclase08.exe
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\testwsformclase08.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\netstandard.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.AppContext.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Collections.Specialized.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Console.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Data.Common.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Globalization.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.Compression.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.Pipes.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.Expressions.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.Parallel.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Linq.Queryable.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Http.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.NameResolution.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Ping.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Requests.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Security.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.Sockets.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Net.WebSockets.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ObjectModel.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Reflection.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Resources.Reader.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Resources.Writer.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Handles.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Claims.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.Principal.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Security.SecureString.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Text.Encoding.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Tasks.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Thread.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Threading.Timer.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.ValueTuple.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XDocument.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XPath.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\entindades.07.dll
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\bin\Debug\entindades.07.pdb
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.exe.config
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.fmrtempera.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.Form1.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.Properties.Resources.resources
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csproj.GenerateResource.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.csproj.CopyComplete
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.exe
+C:\Users\elmolelaptop\Desktop\utn 2do\clase08\Modia.Agustin.2A-copy\testwsformclase08\obj\Debug\testwsformclase08.pdb

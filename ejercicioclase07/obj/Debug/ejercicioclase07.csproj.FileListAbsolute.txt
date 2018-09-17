@@ -1,0 +1,9 @@
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\bin\Debug\ejercicioclase07.exe.config
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\bin\Debug\ejercicioclase07.exe
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\bin\Debug\ejercicioclase07.pdb
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\obj\Debug\ejercicioclase07.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\obj\Debug\ejercicioclase07.Properties.Resources.resources
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\obj\Debug\ejercicioclase07.csproj.GenerateResource.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\obj\Debug\ejercicioclase07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\obj\Debug\ejercicioclase07.exe
+D:\VisualStudio\Modia.Agustin.2A-cpy\ejercicioclase07\obj\Debug\ejercicioclase07.pdb
